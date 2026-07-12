@@ -1,0 +1,13 @@
+# 秘密情報 (念のため)
+.env
+*.key
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+Thumbs.db
+.DS_Store
